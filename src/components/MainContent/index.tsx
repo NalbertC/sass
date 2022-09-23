@@ -1,7 +1,7 @@
 import "./index.sass";
 
 const MainContent = () => {
-  return <div>index</div>;
+  return <main id="main-content">index</main>;
 };
 
 export default MainContent;
